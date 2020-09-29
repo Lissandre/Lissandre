@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2> 🤙 Hi, I'm Lissandre! </h2>
+<p><em>Web developer at TATCHI Agency, and student at Les Gobelins.</em></p>
 
-<!--
-**Lissandre/Lissandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Twitter: Lissandre](https://twitter.com/lissandre_pdlp)
+[Linkedin: Lissandre](https://www.linkedin.com/in/lissandrepasdeloup)
+[GitHub Lissandre](https://github.com/Lissandre)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 A little more about me...  
+
+```javascript
+const lissandre = {
+  pronouns: "he" | "him",
+  code: [Javascript, PHP, HTML, CSS],
+  tools: [Vue, Nuxt, Node, Symfony, Three, Docker],
+  challenge: "I do my best to learn a new thing everyday"
+}
+```
+
+<em><b>I'm sure I'd like to speak with you</b> so if you want to say hi,<b> I'll be happy to meet you more! 🍺</b></em>
