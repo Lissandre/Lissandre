@@ -1,13 +1,13 @@
 # 🤙 Hi, I'm Lissandre!
 Web developer at TATCHI Agency, and student at Les Gobelins.
 
-## 📬 Where to find me ?
-Twitter - [@Lissandre_Pdlp](https://twitter.com/lissandre_pdlp)
-Linkedin - [Lissandre Pasdeloup](https://www.linkedin.com/in/lissandrepasdeloup)
-Github - [Lissandre](https://github.com/Lissandre)
+### 📬 Where to find me ?
+- Twitter - [@Lissandre_Pdlp](https://twitter.com/lissandre_pdlp)
+- Linkedin - [Lissandre Pasdeloup](https://www.linkedin.com/in/lissandrepasdeloup)
+- Github - [Lissandre](https://github.com/Lissandre)
 
 
-## 🧠 A little more about me...  
+### 🧠 A little more about me...  
 
 ```javascript
 const lissandre = {
@@ -18,4 +18,4 @@ const lissandre = {
 }
 ```
 
-### I'm sure I'd like to speak with you so if you want to say hi, I'll be happy to meet you more! 🍺
+I'm sure I'd like to speak with you so if you want to say hi, I'll be happy to meet you more! 🍺
