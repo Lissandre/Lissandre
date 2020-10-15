@@ -18,4 +18,4 @@ const lissandre = {
 }
 ```
 
-I'm sure I'd like to speak with you so if you want to say hi, I'll be happy to meet you more! 🍺
+I'm always ok if you want to meet around a beer! 🍺
