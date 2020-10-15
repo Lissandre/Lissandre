@@ -1,5 +1,5 @@
 # 🤙 Hi, I'm Lissandre!
-Web developer at TATCHI Agency, and student at Les Gobelins.
+Web developer at TATCHI Agency, former student at HETIC and currently studying at Les Gobelins.
 
 ### 📬 Where to find me ?
 - Twitter - [@Lissandre_Pdlp](https://twitter.com/lissandre_pdlp)
