@@ -13,7 +13,7 @@ Web developer at TATCHI Agency, former student at HETIC and currently studying a
 const lissandre = {
   pronouns: "he" | "him",
   code: [Javascript, PHP, HTML, CSS],
-  tools: [Vue, Nuxt, Node, Symfony, Three, Docker],
+  tools: [Vue, Nuxt, Node, Symfony, Three, Docker, Stylus],
   challenge: "I do my best to learn a new thing everyday"
 }
 ```
