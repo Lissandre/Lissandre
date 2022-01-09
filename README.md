@@ -12,8 +12,8 @@ Web developer at D.Potfer Studio, former student at HETIC and currently studying
 ```javascript
 const lissandre = {
   pronouns: "he" | "him",
-  code: [Javascript, GLSL, PHP, HTML, CSS],
-  tools: [Vue, Nuxt, React, Node, Symfony, Three, Cannon, Docker, Stylus],
+  code: [Solidity, Javascript, GLSL, PHP, HTML, CSS],
+  tools: [Web3, Vue, Nuxt, React, Node, Symfony, Three, Cannon, Docker, Stylus],
   challenge: "I do my best to learn a new thing everyday"
 }
 ```
