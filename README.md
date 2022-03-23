@@ -2,7 +2,7 @@
 Web developer at D.Potfer Studio, former student at HETIC and currently studying at Les Gobelins.
 
 ### 📬 Where to find me ?
-- Twitter - [@Lissandre_Pdlp](https://twitter.com/_lissinge)
+- Twitter - [@_lissinge](https://twitter.com/_lissinge)
 - Linkedin - [Lissandre Pasdeloup](https://www.linkedin.com/in/lissandrepasdeloup)
 - Github - [Lissandre](https://github.com/Lissandre)
 
