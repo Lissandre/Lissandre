@@ -1,5 +1,5 @@
 # 🤙 Hi, I'm Lissandre!
-Web developer at D.Potfer Studio, former student at HETIC and currently studying at Les Gobelins.
+Web developer at Details of War, former student at HETIC and currently studying at Les Gobelins.
 
 ### 📬 Where to find me ?
 - Twitter - [@_lissinge](https://twitter.com/_lissinge)
