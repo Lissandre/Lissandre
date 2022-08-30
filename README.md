@@ -11,9 +11,8 @@ Web developer at Details of War, former student at HETIC and currently studying 
 
 ```javascript
 const lissandre = {
-  pronouns: "he" | "him",
   code: [Solidity, Javascript, GLSL, PHP, HTML, CSS],
-  tools: [Web3, Vue, Nuxt, React, Node, Symfony, Three, Cannon, Docker, Stylus, Sass],
+  tools: [Web3, Nuxt, Next, Node, Symfony, Three, Cannon, Docker, Stylus, Sass],
   challenge: "I do my best to learn a new thing everyday"
 }
 ```
