@@ -1,5 +1,5 @@
 # 🤙 Hi, I'm Lissandre!
-Developer, former student at HETIC & Les Gobelins.\
+Developer, former student at HETIC & Les Gobelins.
 
 ### 📬 Where to find me ?
 - Linkedin - [Lissandre Pasdeloup](https://www.linkedin.com/in/lissandrepasdeloup)
