@@ -1,6 +1,5 @@
 # 🤙 Hi, I'm Lissandre!
-Web developer at Details of War, former student at HETIC & Les Gobelins.\
-In love with Three.js and always looking for optimisation.
+Developer, former student at HETIC & Les Gobelins.\
 
 ### 📬 Where to find me ?
 - Linkedin - [Lissandre Pasdeloup](https://www.linkedin.com/in/lissandrepasdeloup)
