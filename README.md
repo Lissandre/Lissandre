@@ -9,8 +9,7 @@ Developer, former student at HETIC & Les Gobelins.
 
 ```javascript
 const lissandre = {
-  code: [Javascript, Typescript, GLSL, PHP, HTML, CSS],
-  tools: [Next, React, Nuxt, Node, Symfony, Three, Cannon, Docker, Sass],
+  tools: [Typescript, Next, React, Node, Symfony, Three, Docker, GLSL],
   challenge: "I do my best to learn a new thing everyday"
 }
 ```
