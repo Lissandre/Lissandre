@@ -25,7 +25,7 @@ const lissandre = {
 ```
 
 ## 🚀 Professional Experience
-- **Lydia Solutions**: Developed high-performance web apps (APDEX 0.93), implemented design systems, and maintained 99.9% crash-free sessions
+- **Lydia Solutions**: Developed high-performance web apps and internal tools, implemented design systems
 - **Details of War**: Led creative front-end development with Three.js, WebGL, and shader innovations
 - **AO Solutions**: Built marketplaces and monitoring tools using Vue, Nuxt, PHP, and AWS
 
